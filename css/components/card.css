@@ -1,0 +1,12 @@
+.card {
+  box-shadow: 4px 4px 4px lightgray;
+  border: 1px solid white;
+  text-align: center;
+  width: 240px;
+  height: 341px;
+}
+
+.card img {
+  width: 215px;
+  height: 176px;
+}
